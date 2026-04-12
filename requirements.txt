@@ -6,3 +6,7 @@ faiss-cpu
 tiktoken
 pydantic
 streamlit-mic-recorder
+SpeechRecognition
+streamlit
+python-dotenv
+google-generativeai
