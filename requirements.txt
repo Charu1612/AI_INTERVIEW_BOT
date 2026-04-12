@@ -1,0 +1,8 @@
+streamlit
+openai
+python-dotenv
+langchain
+faiss-cpu
+tiktoken
+pydantic
+streamlit-mic-recorder
